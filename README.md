@@ -55,12 +55,12 @@ Enter a city name in the search bar
 Get real-time weather details including temperature, humidity, wind speed, and condition
 Works on both desktop and mobile screens
 
-📌 Future Improvements
+## 📌 Future Improvements
 
-Add 7-day weather forecast
-Include weather icons & animations
-Store recent search history
-Improve UI/UX with interactive charts
+🌤️ Add 7-day weather forecast, 
+🎨 Include weather icons & animations, 
+🕒 Store recent search history, 
+📊 Improve UI/UX with interactive charts
 
 
 
