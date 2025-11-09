@@ -28,7 +28,7 @@ A web application built using **Django**, **HTML**, and **CSS** that fetches rea
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/nitin798563/Weather-Forecast-web-App.git
 cd your-repo
 ```
 
@@ -50,17 +50,18 @@ python manage.py runserver
 ```
 
 🧑‍💻 Usage
-
+---
 Enter a city name in the search bar
 Get real-time weather details including temperature, humidity, wind speed, and condition
 Works on both desktop and mobile screens
+---
 
 ## 📌 Future Improvements
-
+---
 🌤️ Add 7-day weather forecast, 
 🎨 Include weather icons & animations, 
 🕒 Store recent search history, 
 📊 Improve UI/UX with interactive charts
-
+---
 
 
